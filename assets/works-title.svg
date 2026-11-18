@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" role="img" aria-label="See my work: live systems I built and run">
+  <defs>
+    <linearGradient id="g" x1="48" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <style>.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}</style>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="129" rx="20" fill="#0b1120" stroke="#1e293b"/>
+  <g class="sans">
+    <text x="48" y="54" font-size="12" font-weight="700" letter-spacing="3" fill="#22d3ee">SEE MY WORK</text>
+    <text x="48" y="92" font-size="26" font-weight="700" fill="#ffffff">Live systems I built and run <tspan fill="url(#g)">for Nabadwip Vidyasagar College</tspan></text>
+  </g>
+</svg>
