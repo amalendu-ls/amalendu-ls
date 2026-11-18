@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-label="Tech stack">
+  <defs>
+    <style>
+      .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+      .cat{font-size:12px;font-weight:700;letter-spacing:1.5px;fill:#64748b}
+      .tile{fill:#0f1a2e;stroke:#1f2c47}
+      .mg{font-size:12px;font-weight:800;fill:#ffffff;text-anchor:middle}
+      .nm{font-size:14px;font-weight:600;fill:#e2e8f0}
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="389" rx="20" fill="#0b1120" stroke="#1e293b"/>
+
+  <g class="sans">
+    <text x="48" y="64" font-size="12" font-weight="700" letter-spacing="3" fill="#22d3ee">TECH STACK</text>
+    <text x="48" y="100" font-size="24" font-weight="700" fill="#ffffff">Tools I work with every day</text>
+
+    <!-- Row 1: Back-end -->
+    <text class="cat" x="48" y="157">BACK-END</text>
+    <rect class="tile" x="230" y="128" width="168" height="48" rx="12"/><rect x="240" y="138" width="28" height="28" rx="7" fill="#3776AB"/><text class="mg" x="254" y="157">Py</text><text class="nm" x="278" y="157">Python</text>
+    <rect class="tile" x="410" y="128" width="168" height="48" rx="12"/><rect x="420" y="138" width="28" height="28" rx="7" fill="#339933"/><text class="mg" x="434" y="157">N</text><text class="nm" x="458" y="157">Node.js</text>
+    <rect class="tile" x="590" y="128" width="168" height="48" rx="12"/><rect x="600" y="138" width="28" height="28" rx="7" fill="#0ea5e9"/><text class="mg" x="614" y="157">{ }</text><text class="nm" x="638" y="157">REST APIs</text>
+    <rect class="tile" x="770" y="128" width="168" height="48" rx="12"/><rect x="780" y="138" width="28" height="28" rx="7" fill="#6366f1"/><text class="mg" x="794" y="157">Q</text><text class="nm" x="818" y="157">SQL</text>
+
+    <!-- Row 2: Databases -->
+    <text class="cat" x="48" y="217">DATABASES</text>
+    <rect class="tile" x="230" y="188" width="168" height="48" rx="12"/><rect x="240" y="198" width="28" height="28" rx="7" fill="#336791"/><text class="mg" x="254" y="217">Pg</text><text class="nm" x="278" y="217">PostgreSQL</text>
+    <rect class="tile" x="410" y="188" width="168" height="48" rx="12"/><rect x="420" y="198" width="28" height="28" rx="7" fill="#00758F"/><text class="mg" x="434" y="217">My</text><text class="nm" x="458" y="217">MySQL</text>
+
+    <!-- Row 3: Platforms -->
+    <text class="cat" x="48" y="277">PLATFORMS</text>
+    <rect class="tile" x="230" y="248" width="168" height="48" rx="12"/><rect x="240" y="258" width="28" height="28" rx="7" fill="#1E5AA8"/><text class="mg" x="254" y="277">DS</text><text class="nm" x="278" y="277">DSpace</text>
+    <rect class="tile" x="410" y="248" width="168" height="48" rx="12"/><rect x="420" y="258" width="28" height="28" rx="7" fill="#7B3FA0"/><text class="mg" x="434" y="277">K</text><text class="nm" x="458" y="277">Koha ILS</text>
+    <rect class="tile" x="590" y="248" width="168" height="48" rx="12"/><rect x="600" y="258" width="28" height="28" rx="7" fill="#C0392B"/><text class="mg" x="614" y="277">OJ</text><text class="nm" x="638" y="277">OJS</text>
+    <rect class="tile" x="770" y="248" width="168" height="48" rx="12"/><rect x="780" y="258" width="28" height="28" rx="7" fill="#F98012"/><text class="mg" x="794" y="277">M</text><text class="nm" x="818" y="277">Moodle</text>
+
+    <!-- Row 4: Tools -->
+    <text class="cat" x="48" y="337">TOOLS</text>
+    <rect class="tile" x="230" y="308" width="168" height="48" rx="12"/><rect x="240" y="318" width="28" height="28" rx="7" fill="#F05032"/><text class="mg" x="254" y="337">G</text><text class="nm" x="278" y="337">Git</text>
+    <rect class="tile" x="410" y="308" width="168" height="48" rx="12"/><rect x="420" y="318" width="28" height="28" rx="7" fill="#FCC624"/><text class="mg" x="434" y="337" style="fill:#111827">L</text><text class="nm" x="458" y="337">Linux</text>
+  </g>
+</svg>

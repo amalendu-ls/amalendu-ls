@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Featured project: Koha MARC Helper, a Chrome extension for Koha ILS cataloguing">
+  <defs>
+    <linearGradient id="g" x1="48" y1="0" x2="300" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <radialGradient id="o"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.18"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="1000" height="290" rx="20"/></clipPath>
+    <style>
+      .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+      .mono{font-family:Consolas,'SFMono-Regular',Menlo,'Courier New',monospace;font-size:13px}
+      .tag{fill:#fbbf24}.ind{fill:#64748b}.sf{fill:#c084fc}.v{fill:#e2e8f0}
+      .chip{fill:#111c33;stroke:#24324d}
+    </style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="290" fill="#0b1120"/>
+    <circle cx="780" cy="140" r="300" fill="url(#o)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="289" rx="20" fill="none" stroke="#1e293b"/>
+
+  <g class="sans">
+    <text x="48" y="64" font-size="12" font-weight="700" letter-spacing="3" fill="#22d3ee">FEATURED PROJECT</text>
+    <text x="48" y="106" font-size="30" font-weight="800" fill="#ffffff">Koha MARC Helper</text>
+    <text x="48" y="134" font-size="15" font-weight="600" fill="url(#g)">Chrome extension for Koha ILS cataloguing</text>
+    <g font-size="15" fill="#94a3b8">
+      <text x="48" y="172">Speeds up copy cataloguing in Koha: search book</text>
+      <text x="48" y="196">records, draft MARC entries with AI help, and keep</text>
+      <text x="48" y="220">settings and API keys private in your own browser.</text>
+    </g>
+    <g font-size="12" font-weight="600" fill="#e2e8f0" text-anchor="middle">
+      <rect class="chip" x="48" y="238" width="96" height="28" rx="8"/><text x="96" y="256">Koha ILS</text>
+      <rect class="chip" x="152" y="238" width="86" height="28" rx="8"/><text x="195" y="256">MARC 21</text>
+      <rect class="chip" x="246" y="238" width="130" height="28" rx="8"/><text x="311" y="256">Chrome Extension</text>
+      <rect class="chip" x="384" y="238" width="104" height="28" rx="8"/><text x="436" y="256">No tracking</text>
+    </g>
+  </g>
+
+  <!-- MARC record panel -->
+  <rect x="560" y="40" width="392" height="226" rx="14" fill="#0d1526" fill-opacity="0.95" stroke="#23314f"/>
+  <line x1="560" y1="76" x2="952" y2="76" stroke="#23314f"/>
+  <circle cx="583" cy="58" r="6" fill="#ff5f57"/>
+  <circle cx="602" cy="58" r="6" fill="#febc2e"/>
+  <circle cx="621" cy="58" r="6" fill="#28c840"/>
+  <text class="sans" x="756" y="63" font-size="12" fill="#64748b" text-anchor="middle">MARC 21 · record draft</text>
+  <g class="mono">
+    <text x="584" y="106"><tspan class="tag">LDR</tspan><tspan class="v" x="630">00000nam a2200000 a 4500</tspan></text>
+    <text x="584" y="132"><tspan class="tag">020</tspan><tspan class="ind" x="630">##</tspan><tspan class="sf" x="656">$a</tspan><tspan class="v"> 9780000000000</tspan></text>
+    <text x="584" y="158"><tspan class="tag">100</tspan><tspan class="ind" x="630">1#</tspan><tspan class="sf" x="656">$a</tspan><tspan class="v"> Author, Example</tspan></text>
+    <text x="584" y="184"><tspan class="tag">245</tspan><tspan class="ind" x="630">10</tspan><tspan class="sf" x="656">$a</tspan><tspan class="v"> Sample title :</tspan><tspan class="sf"> $b</tspan><tspan class="v"> subtitle</tspan></text>
+    <text x="584" y="210"><tspan class="tag">264</tspan><tspan class="ind" x="630">#1</tspan><tspan class="sf" x="656">$a</tspan><tspan class="v"> Kolkata :</tspan><tspan class="sf"> $c</tspan><tspan class="v"> 2026</tspan></text>
+    <text x="584" y="236"><tspan class="tag">650</tspan><tspan class="ind" x="630">#0</tspan><tspan class="sf" x="656">$a</tspan><tspan class="v"> Cataloging</tspan></text>
+  </g>
+  <g class="sans">
+    <rect x="852" y="222" width="84" height="26" rx="13" fill="#22c55e" fill-opacity="0.15" stroke="#22c55e" stroke-opacity="0.5"/>
+    <text x="894" y="239" font-size="11" font-weight="700" fill="#4ade80" text-anchor="middle">✓ VALID</text>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="About me">
+  <defs>
+    <linearGradient id="g" x1="48" y1="0" x2="300" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <style>
+      .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+      .tile{fill:#0f1a2e;stroke:#1f2c47}
+      .tt{font-size:20px;font-weight:800;fill:#ffffff}
+      .ts{font-size:13px;fill:#94a3b8}
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="329" rx="20" fill="#0b1120" stroke="#1e293b"/>
+
+  <g class="sans">
+    <text x="48" y="64" font-size="12" font-weight="700" letter-spacing="3" fill="#22d3ee">ABOUT ME</text>
+    <text x="48" y="104" font-size="26" font-weight="700" fill="#ffffff">Where library science</text>
+    <text x="48" y="138" font-size="26" font-weight="700" fill="url(#g)">meets code.</text>
+    <g font-size="15" fill="#94a3b8">
+      <text x="48" y="182">Librarian at Nabadwip Vidyasagar College since 2016,</text>
+      <text x="48" y="206">trained at IIT Kharagpur and IIM Calcutta. My research</text>
+      <text x="48" y="230">covers bibliometrics, open access and library</text>
+      <text x="48" y="254">automation, and I build tools that make Koha, DSpace,</text>
+      <text x="48" y="278">OJS and Moodle easier for libraries to run.</text>
+    </g>
+
+    <rect class="tile" x="540" y="48" width="200" height="110" rx="14"/>
+    <rect x="560" y="70" width="28" height="4" rx="2" fill="url(#bar)"/>
+    <text class="tt" x="560" y="110">12+ Years</text>
+    <text class="ts" x="560" y="134">Library experience</text>
+
+    <rect class="tile" x="752" y="48" width="200" height="110" rx="14"/>
+    <rect x="772" y="70" width="28" height="4" rx="2" fill="url(#bar)"/>
+    <text class="tt" x="772" y="110">10 Publications</text>
+    <text class="ts" x="772" y="134">Journal articles and chapters</text>
+
+    <rect class="tile" x="540" y="170" width="200" height="110" rx="14"/>
+    <rect x="560" y="192" width="28" height="4" rx="2" fill="url(#bar)"/>
+    <text class="tt" x="560" y="232">PhD in LIS</text>
+    <text class="ts" x="560" y="256">Vidyasagar University, 2024</text>
+
+    <rect class="tile" x="752" y="170" width="200" height="110" rx="14"/>
+    <rect x="772" y="192" width="28" height="4" rx="2" fill="url(#bar)"/>
+    <text class="tt" x="772" y="232">Open Source</text>
+    <text class="ts" x="772" y="256">Koha · DSpace · OJS · Moodle</text>
+  </g>
+</svg>

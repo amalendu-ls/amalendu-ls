@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="450" viewBox="0 0 1000 450" role="img" aria-label="Focus areas">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <style>
+      .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+      .card{fill:#0f1a2e;stroke:#1f2c47}
+      .badge{fill:#22d3ee;fill-opacity:.12;stroke:#22d3ee;stroke-opacity:.35}
+      .num{font-size:14px;font-weight:800;fill:#22d3ee;text-anchor:middle}
+      .t{font-size:16px;font-weight:700;fill:#ffffff}
+      .d{font-size:13px;fill:#94a3b8}
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="449" rx="20" fill="#0b1120" stroke="#1e293b"/>
+
+  <g class="sans">
+    <text x="48" y="64" font-size="12" font-weight="700" letter-spacing="3" fill="#22d3ee">FOCUS AREAS</text>
+    <text x="48" y="100" font-size="24" font-weight="700" fill="#ffffff">What I work on</text>
+
+    <rect class="card" x="48" y="126" width="288" height="136" rx="14"/>
+    <rect x="62" y="126" width="260" height="3" rx="1.5" fill="url(#bar)"/>
+    <rect class="badge" x="72" y="148" width="40" height="32" rx="9"/><text class="num" x="92" y="169">01</text>
+    <text class="t" x="72" y="210">Library Automation</text>
+    <text class="d" x="72" y="232">Koha ILS setup, migration,</text>
+    <text class="d" x="72" y="250">MARC cataloguing and reports</text>
+
+    <rect class="card" x="356" y="126" width="288" height="136" rx="14"/>
+    <rect x="370" y="126" width="260" height="3" rx="1.5" fill="url(#bar)"/>
+    <rect class="badge" x="380" y="148" width="40" height="32" rx="9"/><text class="num" x="400" y="169">02</text>
+    <text class="t" x="380" y="210">Digital Repositories</text>
+    <text class="d" x="380" y="232">DSpace repositories, metadata</text>
+    <text class="d" x="380" y="250">and OAI-PMH harvesting</text>
+
+    <rect class="card" x="664" y="126" width="288" height="136" rx="14"/>
+    <rect x="678" y="126" width="260" height="3" rx="1.5" fill="url(#bar)"/>
+    <rect class="badge" x="688" y="148" width="40" height="32" rx="9"/><text class="num" x="708" y="169">03</text>
+    <text class="t" x="688" y="210">Journal Publishing</text>
+    <text class="d" x="688" y="232">OJS setup, themes, plugins</text>
+    <text class="d" x="688" y="250">and DOI workflows</text>
+
+    <rect class="card" x="48" y="282" width="288" height="136" rx="14"/>
+    <rect x="62" y="282" width="260" height="3" rx="1.5" fill="url(#bar)"/>
+    <rect class="badge" x="72" y="304" width="40" height="32" rx="9"/><text class="num" x="92" y="325">04</text>
+    <text class="t" x="72" y="366">E-Learning</text>
+    <text class="d" x="72" y="388">Moodle deployment, plugins</text>
+    <text class="d" x="72" y="406">and course integration</text>
+
+    <rect class="card" x="356" y="282" width="288" height="136" rx="14"/>
+    <rect x="370" y="282" width="260" height="3" rx="1.5" fill="url(#bar)"/>
+    <rect class="badge" x="380" y="304" width="40" height="32" rx="9"/><text class="num" x="400" y="325">05</text>
+    <text class="t" x="380" y="366">Research Metrics</text>
+    <text class="d" x="380" y="388">Bibliometrics, co-citation and</text>
+    <text class="d" x="380" y="406">open access analysis</text>
+
+    <rect class="card" x="664" y="282" width="288" height="136" rx="14"/>
+    <rect x="678" y="282" width="260" height="3" rx="1.5" fill="url(#bar)"/>
+    <rect class="badge" x="688" y="304" width="40" height="32" rx="9"/><text class="num" x="708" y="325">06</text>
+    <text class="t" x="688" y="366">Data and APIs</text>
+    <text class="d" x="688" y="388">Python, Node.js, PostgreSQL</text>
+    <text class="d" x="688" y="406">and MySQL integrations</text>
+  </g>
+</svg>
