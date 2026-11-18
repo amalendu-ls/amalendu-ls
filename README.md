@@ -22,6 +22,15 @@
 
 <br /><br />
 
+<img src="./assets/works-title.svg" width="100%" alt="See my work: live systems I built and run for Nabadwip Vidyasagar College." />
+
+<a href="https://nvc-opac.kohacloud.in/"><img src="./assets/work-koha.svg" width="49%" alt="Koha OPAC: NVC Central Library Catalogue (nvc-opac.kohacloud.in)" /></a>
+<a href="https://repo.nvc.ac.in/home"><img src="./assets/work-dspace.svg" width="49%" alt="DSpace repository: Knowledge Hub (repo.nvc.ac.in)" /></a>
+<a href="https://journal.nvc.ac.in/"><img src="./assets/work-ojs.svg" width="49%" alt="OJS: Teachers' Journal (journal.nvc.ac.in)" /></a>
+<a href="https://learn.nvc.ac.in/"><img src="./assets/work-moodle.svg" width="49%" alt="Moodle LMS: NVC Learn (learn.nvc.ac.in)" /></a>
+
+<br /><br />
+
 <img src="./assets/services.svg" width="100%" alt="Focus areas: library automation, digital repositories, journal publishing, e-learning, research metrics, data and APIs." />
 
 <br />
