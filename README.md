@@ -14,9 +14,13 @@
 
 <br />
 
-<a href="https://sites.google.com/nvc.ac.in/amalendudas/tools/koha-marc-helper-user-guide"><img src="./assets/featured.svg" width="100%" alt="Featured project: Koha MARC Helper, a Chrome extension for Koha ILS cataloguing." /></a>
+<a href="https://sites.google.com/nvc.ac.in/amalendudas/tools/koha-marc-helper-user-guide"><img src="./assets/featured.svg" width="100%" alt="Featured project: Koha MARC Helper, a browser extension for Koha ILS cataloguing, available for Chrome and Firefox." /></a>
 
-<br />
+<a href="https://chromewebstore.google.com/detail/hgiojehcfeaebkojkgpgiljdpncielcb"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install-0b1120?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0b1120&color=1e3a5f" alt="Get Koha MARC Helper on the Chrome Web Store" /></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/koha-marc-helper/"><img src="https://img.shields.io/badge/Firefox%20Add--ons-Install-0b1120?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139&labelColor=0b1120&color=1e3a5f" alt="Get Koha MARC Helper for Firefox" /></a>
+<a href="https://sites.google.com/nvc.ac.in/amalendudas/tools/koha-marc-helper-user-guide"><img src="https://img.shields.io/badge/User%20Guide-Read-0b1120?style=for-the-badge&logo=readthedocs&logoColor=c084fc&labelColor=0b1120&color=1e3a5f" alt="Koha MARC Helper user guide" /></a>
+
+<br /><br />
 
 <img src="./assets/services.svg" width="100%" alt="Focus areas: library automation, digital repositories, journal publishing, e-learning, research metrics, data and APIs." />
 
