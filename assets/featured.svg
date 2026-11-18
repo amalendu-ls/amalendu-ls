@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Featured project: Koha MARC Helper, a Chrome extension for Koha ILS cataloguing">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Featured project: Koha MARC Helper, a browser extension for Koha ILS cataloguing, for Chrome and Firefox">
   <defs>
     <linearGradient id="g" x1="48" y1="0" x2="300" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/>
@@ -21,7 +21,7 @@
   <g class="sans">
     <text x="48" y="64" font-size="12" font-weight="700" letter-spacing="3" fill="#22d3ee">FEATURED PROJECT</text>
     <text x="48" y="106" font-size="30" font-weight="800" fill="#ffffff">Koha MARC Helper</text>
-    <text x="48" y="134" font-size="15" font-weight="600" fill="url(#g)">Chrome extension for Koha ILS cataloguing</text>
+    <text x="48" y="134" font-size="15" font-weight="600" fill="url(#g)">Browser extension for Koha ILS cataloguing</text>
     <g font-size="15" fill="#94a3b8">
       <text x="48" y="172">Speeds up copy cataloguing in Koha: search book</text>
       <text x="48" y="196">records, draft MARC entries with AI help, and keep</text>
@@ -30,7 +30,7 @@
     <g font-size="12" font-weight="600" fill="#e2e8f0" text-anchor="middle">
       <rect class="chip" x="48" y="238" width="96" height="28" rx="8"/><text x="96" y="256">Koha ILS</text>
       <rect class="chip" x="152" y="238" width="86" height="28" rx="8"/><text x="195" y="256">MARC 21</text>
-      <rect class="chip" x="246" y="238" width="130" height="28" rx="8"/><text x="311" y="256">Chrome Extension</text>
+      <rect class="chip" x="246" y="238" width="130" height="28" rx="8"/><text x="311" y="256">Chrome + Firefox</text>
       <rect class="chip" x="384" y="238" width="104" height="28" rx="8"/><text x="436" y="256">No tracking</text>
     </g>
   </g>
